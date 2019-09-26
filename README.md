@@ -1,2 +1,2 @@
-# dc-imd-python
-matplotlib1.ipnyb     This is a demonstration of graphing with World Bank and UN population data.
+## Data Scientist Course Work
+Here lies much of my Data Scientist Course Lessons.
